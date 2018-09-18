@@ -1,0 +1,2 @@
+# EkaHubRepo
+Ensimmäisten projektien kansiot
